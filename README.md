@@ -3,7 +3,7 @@
 The PhonePe App on C++ project aims to create a simplified version of the popular digital payment and financial services application called PhonePe using the C++ programming language. The project focuses on implementing key functionalities and features that are commonly found in such mobile payment applications.
 
 Key Features:
-1.User Details
+1.User Details </br>
 2.Mobile Recharge
 3.Payment(UPI,Bank Account,Phone Number)
 4.PhonePay Wallet
